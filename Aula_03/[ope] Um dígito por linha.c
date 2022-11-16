@@ -14,4 +14,3 @@ int main()
     printf("%d\n", digito2);
     printf("%d\n", digito3);
     printf("%d\n", digito4);
-}
