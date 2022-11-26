@@ -2,5 +2,4 @@ Hello world!
 
 Forneça um programa que imprime a mensagem "Ola mundo!" na saída.
 >>
-<<
-Ola mundo!
+<< Ola mundo!
